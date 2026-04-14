@@ -2,14 +2,12 @@
 
 Bem-vindo ao Lapidar Portal.
 
-Este espaço reúne oportunidades reais para escritores e autores independentes:
+Oportunidades disponíveis:
 
-- concursos literários
-- editais culturais
-- bolsas de criação
-- chamadas de revistas
-- oportunidades internacionais
+- [Concursos Literários](concursos.md)
+- [Editais Culturais](editais.md)
+- [Bolsas de Criação](bolsas.md)
+- [Revistas Literárias](revistas.md)
+- [Oportunidades Internacionais](internacional.md)
 
-O acesso é gratuito.
-
-Projeto mantido por Site das Letras — Edições Literárias.
+Portal gratuito mantido por Site das Letras — Edições Literárias.
